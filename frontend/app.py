@@ -5,7 +5,7 @@ import requests
 # CONFIG
 
 
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "https://ai-slide-tutor.onrender.com"
 
 st.set_page_config(
     page_title="AI Slide Tutor",
