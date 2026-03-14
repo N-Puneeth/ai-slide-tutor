@@ -41,21 +41,21 @@ https://ai-slide-tutor.onrender.com
 
 ## 🏗 System Architecture
 
-
-User
-↓
-Streamlit Frontend
-↓
-FastAPI Backend
-↓
-Groq LLM (Llama Models)
-↓
-Generated Lessons + Answers
-
-
----
-
-## 🛠 Tech Stack
+           
+User                      
+↓                    
+Streamlit Frontend            
+↓                     
+FastAPI Backend               
+↓                              
+Groq LLM (Llama Models)                
+↓                                
+Generated Lessons + Answers              
+            
+                  
+---                         
+                         
+## 🛠 Tech Stack            
 
 ### Frontend
 - Streamlit
@@ -206,10 +206,10 @@ Possible extensions:
 
 ## 👨‍💻 Author
 
-Puneeth Kumar  
-B.Tech Computer Science Student
-Interest: Artificial Intelligence & Machine Learning
-
+N.Puneeth Kumar                                              
+B.Tech Computer Science Student              
+Interest: Artificial Intelligence & Machine Learning     
+ 
 ---
 
 ## 📜 License
