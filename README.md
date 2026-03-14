@@ -79,30 +79,30 @@ Generated Lessons + Answers
 ## 📂 Project Structure
 
 
-ai-slide-tutor
-│
-├── backend
-│ ├── main.py
-│ └── routes.py
-│
-├── services
-│ ├── lesson_service.py
-│ └── doubt_service.py
-│
-├── frontend
-│ └── app.py
-│
-├── models
-│ └── schemas.py
-│
-├── config
-│ └── settings.py
-│
-├── requirements.txt
-└── README.md
-
-
----
+ai-slide-tutor         
+│             
+├── backend           
+│ ├── main.py           
+│ └── routes.py        
+│                        
+├── services                 
+│ ├── lesson_service.py           
+│ └── doubt_service.py         
+│                        
+├── frontend                   
+│ └── app.py                
+│                       
+├── models                 
+│ └── schemas.py                 
+│                         
+├── config                     
+│ └── settings.py                
+│                      
+├── requirements.txt                   
+└── README.md                    
+                       
+                     
+---            
 
 ## ⚙️ Installation (Run Locally)
 
